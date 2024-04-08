@@ -59,7 +59,7 @@ Imports:
     mco,
     pso
 License: GPL-3
-URL: https://github.com/braverock/PortfolioAnalytics
-Copyright: (c) 2004-2023
+URL: https://github.com/robustport/PortfolioAnalyticsPlus
+Copyright: (c) 2004-2024
 RoxygenNote: 7.2.3
 Encoding: UTF-8
